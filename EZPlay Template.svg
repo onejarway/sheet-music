@@ -1,0 +1,671 @@
+<svg viewBox="0 0 59.7508 84.5047" version="1.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+
+tspan { white-space: pre; }
+
+</style>
+
+<g transform="translate(17.0119, 5.0687)">
+<text fill="currentColor" text-anchor="start" font-size="3.4924" font-weight="bold" font-family="serif">
+<tspan>EZ Play Song</tspan>
+</text>
+</g>
+<g transform="translate(42.9750, 8.5687)">
+<text fill="currentColor" text-anchor="start" font-size="2.2001" font-family="serif">
+<tspan>Hal Leonard</tspan>
+</text>
+</g>
+<g transform="translate(2.8453, 17.4474)">
+<line y2="0" x2="53.3535" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 15.9474)">
+<line y2="0" x2="53.3535" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 14.4474)">
+<line y2="0" x2="53.3535" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 12.9474)">
+<line y2="0" x2="53.3535" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 11.4474)">
+<line y2="0" x2="53.3535" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(56.1048, 14.4474)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<g transform="translate(33.5315, 14.4474)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<g transform="translate(2.8453, 18.9474)">
+<rect fill="currentColor" ry="0.1086" height="0.2171" width="3.0559" y="-0.1086" x="9.4150"></rect>
+</g>
+<g transform="translate(50.2142, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="5.2778" width="0.1135" y="-4.8997" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:26:6:7" style="color:inherit;">
+<g transform="translate(49.2523, 15.1974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(48.8169, 15.6157)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>A</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(43.3769, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-5.3250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:26:4:5" style="color:inherit;">
+<g transform="translate(42.4150, 15.9474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.9455, 16.3571)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(50.1574, 9.5419)">
+<polygon points="3.9308 -0.0136 3.9308 0.8245 0.0200 0.4191 0.0200 -0.4191" stroke="currentColor" fill="currentColor" stroke-width="0.0400" stroke-linecap="round" stroke-linejoin="round"></polygon>
+</g>
+<g transform="translate(54.0515, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="5.6340" width="0.1135" y="-4.5058" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:26:9:10" style="color:inherit;">
+<g transform="translate(53.0895, 15.9474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(52.6201, 16.3571)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<a xlink:href="textedit:///tmp/hacklily.ly:25:24:25" style="color:inherit;">
+<g transform="translate(20.6255, 18.1974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(20.1561, 18.6071)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(14.7502, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-2.3250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:22:2:3" style="color:inherit;">
+<g transform="translate(9.3356, 14.4474)">
+<text fill="currentColor" text-anchor="start" font-size="3.9998" font-family="emmentaler-26">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(9.1990, 16.4619)">
+<text fill="currentColor" text-anchor="start" font-size="3.9998" font-family="emmentaler-26">
+<tspan>4</tspan>
+</text>
+</g>
+</a>
+<a xlink:href="textedit:///tmp/hacklily.ly:23:2:3" style="color:inherit;">
+<g transform="translate(7.2490, 14.4474)">
+<path fill="currentColor" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+</a>
+<g transform="translate(3.6453, 15.9474)">
+<path fill="currentColor" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:25:21:22" style="color:inherit;">
+<g transform="translate(13.7883, 18.9474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(13.3700, 19.3571)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(36.5396, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-4.5750" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:26:2:3" style="color:inherit;">
+<g transform="translate(35.5777, 16.6974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(35.1936, 17.0986)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(28.4247, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-3.8250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:25:26:27" style="color:inherit;">
+<g transform="translate(27.4628, 17.4474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(27.0787, 17.8571)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(21.5875, 14.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-3.0750" x="-0.0567"></rect>
+</g>
+<g transform="translate(2.8453, 29.4474)">
+<line y2="0" x2="51.8675" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 27.9474)">
+<line y2="0" x2="51.8675" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 26.4474)">
+<line y2="0" x2="51.8675" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 24.9474)">
+<line y2="0" x2="51.8675" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 23.4474)">
+<line y2="0" x2="51.8675" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 30.9474)">
+<rect fill="currentColor" ry="0.1086" height="0.2171" width="2.7216" y="-0.1086" x="44.5113"></rect>
+</g>
+<g transform="translate(2.8453, 30.9474)">
+<rect fill="currentColor" ry="0.1086" height="0.2171" width="2.7350" y="-0.1086" x="37.6606"></rect>
+</g>
+<g transform="translate(2.8453, 30.9474)">
+<rect fill="currentColor" ry="0.1086" height="0.2171" width="3.0559" y="-0.1086" x="30.5024"></rect>
+</g>
+<g transform="translate(2.8453, 32.4474)">
+<rect fill="currentColor" ry="0.1086" height="0.2171" width="3.0559" y="-0.1086" x="30.5024"></rect>
+</g>
+<g transform="translate(54.6188, 26.4474)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<g transform="translate(32.8294, 26.4474)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:28:6:7" style="color:inherit;">
+<g transform="translate(41.7129, 31.6974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.2776, 32.1071)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>B</tspan>
+</text>
+</g>
+</g>
+</a>
+<a xlink:href="textedit:///tmp/hacklily.ly:27:10:11" style="color:inherit;">
+<g transform="translate(27.1716, 25.6974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(26.7534, 26.1071)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(35.8375, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-0.8250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:28:2:3" style="color:inherit;">
+<g transform="translate(34.8756, 32.4474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(34.4403, 32.8657)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>A</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(26.2097, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-0.3781" x="-0.0567"></rect>
+</g>
+<g transform="translate(10.8038, 32.0419)">
+<polygon points="11.6053 -0.7636 11.6053 0.0745 0.0200 0.4191 0.0200 -0.4191" stroke="currentColor" fill="currentColor" stroke-width="0.0400" stroke-linecap="round" stroke-linejoin="round"></polygon>
+</g>
+<g transform="translate(45.7515, 30.9474)">
+<path fill="currentColor" d="M215 -316c0 -9 -8 -17 -17 -17s-17 8 -17 17v151l-87 -31v-162c0 -9 -8 -17 -17 -17s-17 8 -17 17v150l-39 -13c-10 -4 -21 4 -21 15v64c0 7 5 13 11 15l49 18v164l-39 -14c-10 -4 -21 4 -21 15v65c0 7 5 13 11 15l49 17v163c0 9 8 17 17 17s17 -8 17 -17v-151l87 31v162
+c0 9 8 17 17 17s17 -8 17 -17v-150l39 13c10 4 21 -4 21 -15v-64c0 -7 -5 -13 -11 -15l-49 -18v-164l39 14c10 4 21 -4 21 -15v-65c0 -7 -5 -13 -11 -15l-49 -17v-163zM94 67v-164l87 30v164z" transform="scale(0.0052, -0.0052)"></path>
+</g>
+<g transform="translate(42.6748, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-1.5750" x="-0.0567"></rect>
+</g>
+<g transform="translate(49.5121, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-2.3250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:28:8:9" style="color:inherit;">
+<g transform="translate(48.5502, 30.9474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(48.1319, 31.3571)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(39.4508, 31.6974)">
+<path fill="currentColor" d="M-7 375c7 4 16 6 24 6s16 -2 23 -6l-2 -177l109 18c1 0 2 1 3 1c9 0 17 -8 17 -17l7 -575c-7 -4 -16 -6 -24 -6s-17 2 -24 6l2 177l-109 -18c-1 0 -1 -1 -2 -1c-9 0 -17 8 -17 17zM132 114l-95 -15l-3 -213l96 15z" transform="scale(0.0052, -0.0052)"></path>
+</g>
+<g transform="translate(10.8606, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="5.2210" width="0.1135" y="0.3719" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:27:2:3" style="color:inherit;">
+<g transform="translate(11.8225, 26.4474)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(11.3871, 26.8571)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>B</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(9.5490, 26.4474)">
+<path fill="currentColor" d="M-7 375c7 4 16 6 24 6s16 -2 23 -6l-2 -177l109 18c1 0 2 1 3 1c9 0 17 -8 17 -17l7 -575c-7 -4 -16 -6 -24 -6s-17 2 -24 6l2 177l-109 -18c-1 0 -1 -1 -2 -1c-9 0 -17 8 -17 17zM132 114l-95 -15l-3 -213l96 15z" transform="scale(0.0052, -0.0052)"></path>
+</g>
+<g transform="translate(7.2490, 26.4474)">
+<path fill="currentColor" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<g transform="translate(3.6453, 27.9474)">
+<path fill="currentColor" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<g transform="translate(1.7356, 22.3968)">
+<text fill="currentColor" text-anchor="start" font-size="1.7463" font-family="serif">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(22.3724, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="5.6298" width="0.1135" y="-0.3781" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:27:8:9" style="color:inherit;">
+<g transform="translate(23.3343, 25.6974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(22.9161, 26.1071)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(18.5351, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="5.7435" width="0.1135" y="-0.3781" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:27:6:7" style="color:inherit;">
+<g transform="translate(19.4970, 25.6974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(19.0788, 26.1071)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<a xlink:href="textedit:///tmp/hacklily.ly:27:4:5" style="color:inherit;">
+<g transform="translate(15.6598, 25.6974)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(15.2415, 26.1071)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(14.6978, 26.4474)">
+<rect fill="currentColor" ry="0.0200" height="5.8573" width="0.1135" y="-0.3781" x="-0.0567"></rect>
+</g>
+<g transform="translate(2.8453, 42.7911)">
+<line y2="0" x2="51.5613" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 41.2911)">
+<line y2="0" x2="51.5613" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 39.7911)">
+<line y2="0" x2="51.5613" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 38.2911)">
+<line y2="0" x2="51.5613" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 36.7911)">
+<line y2="0" x2="51.5613" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(54.3126, 39.7911)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<g transform="translate(31.2932, 39.7911)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:29:13:14" style="color:inherit;">
+<g transform="translate(41.6567, 40.5411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.2213, 40.9593)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>A</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(32.0207, 41.2911)">
+<path fill="currentColor" d="M215 -316c0 -9 -8 -17 -17 -17s-17 8 -17 17v151l-87 -31v-162c0 -9 -8 -17 -17 -17s-17 8 -17 17v150l-39 -13c-10 -4 -21 4 -21 15v64c0 7 5 13 11 15l49 18v164l-39 -14c-10 -4 -21 4 -21 15v65c0 7 5 13 11 15l49 17v163c0 9 8 17 17 17s17 -8 17 -17v-151l87 31v162
+c0 9 8 17 17 17s17 -8 17 -17v-150l39 13c10 4 21 -4 21 -15v-64c0 -7 -5 -13 -11 -15l-49 -18v-164l39 14c10 4 21 -4 21 -15v-65c0 -7 -5 -13 -11 -15l-49 -17v-163zM94 67v-164l87 30v164z" transform="scale(0.0052, -0.0052)"></path>
+</g>
+<g transform="translate(35.7813, 39.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-5.3250" x="-0.0567"></rect>
+</g>
+<g transform="translate(42.6186, 39.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-6.0750" x="-0.0567"></rect>
+</g>
+<g transform="translate(49.2059, 39.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-3.0750" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:30:2:3" style="color:inherit;">
+<g transform="translate(48.2440, 43.5411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(47.7745, 43.9508)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(7.2490, 39.7911)">
+<path fill="currentColor" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:29:9:10" style="color:inherit;">
+<g transform="translate(34.8194, 41.2911)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(34.3499, 41.7008)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<a xlink:href="textedit:///tmp/hacklily.ly:28:12:13" style="color:inherit;">
+<g transform="translate(11.5677, 43.5411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(11.0982, 43.9508)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(12.5296, 39.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-3.0750" x="-0.0567"></rect>
+</g>
+<g transform="translate(3.6453, 41.2911)">
+<path fill="currentColor" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<g transform="translate(1.7356, 35.7404)">
+<text fill="currentColor" text-anchor="start" font-size="1.7463" font-family="serif">
+<tspan>5</tspan>
+</text>
+</g>
+<g transform="translate(26.2041, 39.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-4.5750" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:29:5:6" style="color:inherit;">
+<g transform="translate(25.2422, 42.0411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(24.8581, 42.4423)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(19.3669, 39.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-3.8250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:29:2:3" style="color:inherit;">
+<g transform="translate(18.4050, 42.7911)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(18.0208, 43.2008)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(22.4436, 42.0411)">
+<path fill="currentColor" d="M215 -316c0 -9 -8 -17 -17 -17s-17 8 -17 17v151l-87 -31v-162c0 -9 -8 -17 -17 -17s-17 8 -17 17v150l-39 -13c-10 -4 -21 4 -21 15v64c0 7 5 13 11 15l49 18v164l-39 -14c-10 -4 -21 4 -21 15v65c0 7 5 13 11 15l49 17v163c0 9 8 17 17 17s17 -8 17 -17v-151l87 31v162
+c0 9 8 17 17 17s17 -8 17 -17v-150l39 13c10 4 21 -4 21 -15v-64c0 -7 -5 -13 -11 -15l-49 -18v-164l39 14c10 4 21 -4 21 -15v-65c0 -7 -5 -13 -11 -15l-49 -17v-163zM94 67v-164l87 30v164z" transform="scale(0.0052, -0.0052)"></path>
+</g>
+<g transform="translate(2.8453, 54.7911)">
+<line y2="0" x2="49.8853" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 53.2911)">
+<line y2="0" x2="49.8853" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 51.7911)">
+<line y2="0" x2="49.8853" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 50.2911)">
+<line y2="0" x2="49.8853" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 48.7911)">
+<line y2="0" x2="49.8853" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(31.2575, 51.7911)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<g transform="translate(52.6366, 51.7911)">
+<rect fill="currentColor" ry="0.0000" height="6.0000" width="0.1276" y="-3.0000" x="0.0000"></rect>
+</g>
+<g transform="translate(34.2656, 51.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-6.0750" x="-0.0567"></rect>
+</g>
+<g transform="translate(39.1797, 51.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.1281" width="0.1135" y="0.3719" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:31:5:6" style="color:inherit;">
+<g transform="translate(40.1416, 51.7911)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(39.7062, 52.2008)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>B</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(46.0169, 51.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-0.3781" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:31:7:8" style="color:inherit;">
+<g transform="translate(46.9788, 51.0411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(46.5606, 51.4508)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(37.8681, 51.7911)">
+<path fill="currentColor" d="M-7 375c7 4 16 6 24 6s16 -2 23 -6l-2 -177l109 18c1 0 2 1 3 1c9 0 17 -8 17 -17l7 -575c-7 -4 -16 -6 -24 -6s-17 2 -24 6l2 177l-109 -18c-1 0 -1 -1 -2 -1c-9 0 -17 8 -17 17zM132 114l-95 -15l-3 -213l96 15z" transform="scale(0.0052, -0.0052)"></path>
+</g>
+<g transform="translate(7.2490, 51.7911)">
+<path fill="currentColor" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:30:6:7" style="color:inherit;">
+<g transform="translate(11.5677, 54.7911)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(11.1836, 55.2008)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(12.5296, 51.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-3.8250" x="-0.0567"></rect>
+</g>
+<g transform="translate(3.6453, 53.2911)">
+<path fill="currentColor" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<g transform="translate(1.7356, 47.7575)">
+<text fill="currentColor" text-anchor="start" font-size="1.7463" font-family="serif">
+<tspan>7</tspan>
+</text>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:31:2:3" style="color:inherit;">
+<g transform="translate(33.3037, 52.5411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(32.8683, 52.9593)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>A</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(26.2041, 51.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-5.3250" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:30:10:11" style="color:inherit;">
+<g transform="translate(25.2422, 53.2911)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(24.7728, 53.7008)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(19.3669, 51.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.4531" width="0.1135" y="-4.5750" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:30:8:9" style="color:inherit;">
+<g transform="translate(18.4050, 54.0411)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(18.0208, 54.4423)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(2.8453, 66.7911)">
+<line y2="0" x2="20.5075" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 65.2911)">
+<line y2="0" x2="20.5075" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 63.7911)">
+<line y2="0" x2="20.5075" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 62.2911)">
+<line y2="0" x2="20.5075" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(2.8453, 60.7911)">
+<line y2="0" x2="20.5075" y1="0" x1="0.0336" stroke="currentColor" stroke-width="0.0671" stroke-linecap="round" stroke-linejoin="round"></line>
+</g>
+<g transform="translate(10.6058, 63.7911)">
+<rect fill="currentColor" ry="0.0200" height="6.3177" width="0.1135" y="-0.9927" x="-0.0567"></rect>
+</g>
+<a xlink:href="textedit:///tmp/hacklily.ly:31:9:10" style="color:inherit;">
+<g transform="translate(11.5677, 62.2911)">
+<circle r="1.0186" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(11.5677, 62.2911)">
+<circle r="0.9052" stroke-width="0" stroke="currentColor" fill="currentColor" stroke-linecap="round" stroke-linejoin="round"></circle>
+</g>
+</g>
+<g transform="translate(11.0982, 62.7008)">
+<text fill="currentColor" text-anchor="start" font-size="1.1351" font-weight="bold" font-family="sans-serif">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(7.2490, 63.7911)">
+<path fill="currentColor" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<g transform="translate(3.6453, 65.2911)">
+<path fill="currentColor" d="M374 260c5 0 10 1 15 1c154 0 254 -127 254 -259c0 -76 -33 -153 -107 -208c-22 -17 -47 -29 -73 -37c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -88 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70c1 0 2 1 3 1c93 2 154 93 160 192c1 18 2 35 2 53c0 32 -2 64 -5 96c-29 -5 -58 -8 -89 -8c-188 0 -333 171 -333 372c0 178 133 306 251 440c-18 63 -35 126 -42 191c-6 51 -7 102 -7 154c0 116 55 226 150 295c5 4 11 4 16 0
+c70 -84 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208zM459 -205c69 24 117 96 117 166c0 92 -69 184 -179 193c25 -117 48 -235 62 -359zM71 31c0 -136 131 -251 267 -251c28 0 55 2 82 6c-15 128 -38 247 -64 367c-79 -9 -125 -62 -125 -121
+c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-3 0 -6 1 -9 2c-80 43 -116 114 -116 184c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -76 15 -137 33 -200c82 97 149 198 149 325
+c0 58 -4 84 -21 137z" transform="scale(0.0040, -0.0040)"></path>
+</g>
+<g transform="translate(1.7356, 59.7404)">
+<text fill="currentColor" text-anchor="start" font-size="1.7463" font-family="serif">
+<tspan>9</tspan>
+</text>
+</g>
+</svg>
